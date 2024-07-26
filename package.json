@@ -1,7 +1,7 @@
 {
   "name": "relinkit-crx",
-  "displayName": "Relinkit crx",
-  "version": "0.0.1",
+  "displayName": "Relinkit: 拯救微信公众号文章的超链接🔗",
+  "version": "0.1.0",
   "description": "Relink the link from text content in webpage",
   "author": "Kai<kai@thekaiway.com>",
   "scripts": {
